@@ -1,5 +1,3 @@
-
-# Github Url for assignment repo: https://github.com/Birkbeck/DCS-POP1-2020-21-cordell-charles
 import random
 
 
